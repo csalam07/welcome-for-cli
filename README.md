@@ -9,13 +9,13 @@
 ### npm
 
 ```sh
-npm install clear-my-console
+npm install welcome-for-cli
 ```
 
 ### Yarn
 
 ```sh
-yarn add clear-my-console
+yarn add welcome-for-cli
 ```
 
 ## Usage
