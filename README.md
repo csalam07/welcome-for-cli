@@ -4,40 +4,41 @@
 
 <br>
 
+## Installation
 
-## Install
+### npm
 
 ```sh
-npm install welcome-for-cli
+npm install clear-my-console
 ```
 
-<br>
+### Yarn
 
-
+```sh
+yarn add clear-my-console
+```
 
 ## Usage
 
 ```js
-const welcome = require('welcome-for-cli');
+import welcome from 'welcome-for-cli';
 
 // Use it.
-welcome({title: `Welcome CLI`, tagLine: `by csalam07`});
+welcome({ title: `Welcome CLI`, tagLine: `by csalam07` });
 
 // OR with all the options set like this:
 welcome({
-	title: `Welcome CLI`,
-	tagLine: `by csalam07`,
-	bgColor: `#FADC00`,
-	color: `#000000`,
-	bold: true,
-	clear: true,
-	version: `v1.0`
+  title: `Welcome CLI`,
+  tagLine: `by csalam07`,
+  bgColor: `#FADC00`,
+  color: `#000000`,
+  bold: true,
+  clear: true,
+  version: `v1.0`,
 });
 ```
 
-
 <br>
-
 
 ## API
 
@@ -105,9 +106,6 @@ Print version text.
 
 <br>
 
-
 ## License
 
 - MIT © [cslam07](https://twitter.com/CSALam12/)
-
-
