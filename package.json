@@ -1,0 +1,53 @@
+{
+  "name": "welcome-for-cli",
+  "version": "1.0.0",
+  "description": "Welcome header for Node.js CLI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csalam07/welcome-for-cli.git"
+  },
+  "keywords": [
+    "wc",
+    "wfc",
+    "welcome",
+    "cli",
+    "node",
+    "for",
+    "console",
+    "welcome",
+    "welcome-all",
+    "welcome-cli",
+    "welcome console",
+    "welcome-any-console",
+    "welcome-all-console",
+    "welcome-node-console",
+    "welcome console windows",
+    "welcome console macos",
+    "welcome console linux",
+    "welcome console windows mac linux",
+    "csalam",
+    "csalam07"
+  ],
+  "author": {
+    "name": "csalam07",
+    "linkedIn": "linkedin.com/in/shahbajz-alam-b47678193",
+    "twitter": "https://twitter.com/CSALam12"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csalam07/welcome-for-cli/issues"
+  },
+  "homepage": "https://github.com/csalam07/welcome-for-cli#readme",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "clear-my-console": "^1.0.1"
+  }
+}
