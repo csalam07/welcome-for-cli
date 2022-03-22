@@ -1,6 +1,6 @@
 {
   "name": "welcome-for-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Welcome header for Node.js CLI",
   "main": "index.js",
   "type": "module",
